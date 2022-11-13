@@ -1,2 +1,2 @@
-# Galbry_Contract
-This is Galbry Marketplace Contract.
+# Codename: Galbry_Contract
+Marketplace Contract — Reitio
